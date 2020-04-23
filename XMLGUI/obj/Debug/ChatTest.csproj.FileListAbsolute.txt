@@ -1,0 +1,11 @@
+C:\Users\Анастасия\Documents\6 семестр\c#\XMLGUI\obj\Debug\XMLGUI.Forms.QuantityThreads.resources
+C:\Users\Анастасия\Documents\6 семестр\c#\XMLGUI\obj\Debug\XMLGUI.Properties.Resources.resources
+C:\Users\Анастасия\Documents\6 семестр\c#\XMLGUI\obj\Debug\ChatTest.csproj.GenerateResource.cache
+C:\Users\Анастасия\Documents\6 семестр\c#\XMLGUI\obj\Debug\XMLGUI.exe
+C:\Users\Анастасия\Documents\6 семестр\c#\XMLGUI\obj\Debug\XMLGUI.pdb
+C:\Users\Анастасия\Documents\6 семестр\c#\XMLGUI\bin\Debug\XMLGUI.exe.config
+C:\Users\Анастасия\Documents\6 семестр\c#\XMLGUI\bin\Debug\XMLGUI.exe
+C:\Users\Анастасия\Documents\6 семестр\c#\XMLGUI\bin\Debug\XMLGUI.pdb
+C:\Users\Анастасия\Documents\6 семестр\c#\XMLGUI\obj\Debug\XMLGUI.ThreadConstr.resources
+C:\Users\Анастасия\Documents\6 семестр\c#\XMLGUI\obj\Debug\ChatTest.csprojAssemblyReference.cache
+C:\Users\Анастасия\Documents\6 семестр\c#\XMLGUI\obj\Debug\XMLGUI.Forms.SetTime.resources

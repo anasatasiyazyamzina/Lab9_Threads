@@ -1,0 +1,10 @@
+C:\Users\kseno\source\repos\UDP.Server\XMLGUI\bin\Debug\XMLGUI.exe.config
+C:\Users\kseno\source\repos\UDP.Server\XMLGUI\bin\Debug\XMLGUI.exe
+C:\Users\kseno\source\repos\UDP.Server\XMLGUI\bin\Debug\XMLGUI.pdb
+C:\Users\kseno\source\repos\UDP.Server\XMLGUI\obj\Debug\XMLGUI.csprojAssemblyReference.cache
+C:\Users\kseno\source\repos\UDP.Server\XMLGUI\obj\Debug\XMLGUI.Forms.FilterProperties.resources
+C:\Users\kseno\source\repos\UDP.Server\XMLGUI\obj\Debug\XMLGUI.XMLViewer.resources
+C:\Users\kseno\source\repos\UDP.Server\XMLGUI\obj\Debug\XMLGUI.Properties.Resources.resources
+C:\Users\kseno\source\repos\UDP.Server\XMLGUI\obj\Debug\XMLGUI.csproj.GenerateResource.cache
+C:\Users\kseno\source\repos\UDP.Server\XMLGUI\obj\Debug\XMLGUI.exe
+C:\Users\kseno\source\repos\UDP.Server\XMLGUI\obj\Debug\XMLGUI.pdb
